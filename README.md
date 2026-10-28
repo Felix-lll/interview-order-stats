@@ -1,6 +1,6 @@
 # Order Stats — AI-assisted coding exercise
 
-Time limit: **45 minutes**. You are expected to use AI coding tools (Claude Code, Cursor, Copilot, ChatGPT, etc.) the way you normally do. We are evaluating both the result and how you work with AI.
+Time limit: **25 minutes**. You are expected to use AI coding tools (Claude Code, Cursor, Copilot, ChatGPT, etc.) the way you normally do. We are evaluating both the result and how you work with AI.
 
 ## Task
 
